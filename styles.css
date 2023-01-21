@@ -10,6 +10,7 @@
     
     background-size: cover;
     background-position: center;
+    
 
 }
 
@@ -63,10 +64,23 @@
 
 }
 .square {
-    height: 150px;
-    width: 200px;
-    background-color: rgba(82, 69, 69, 0.973);
+    height: 200px;
+    width: 250px;
+    background-color: #ffffff;
     margin-left: 200px;
     position: absolute;
-    margin-bottom: 250px;
+    margin-top: 320px;
+    border-radius: 10%;
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.233);
   }
+  .square2 {
+    height: 200px;
+    width: 250px;
+    background-color:#ffffff ;
+    margin-left: 500px;
+    position: absolute;
+    margin-top: 320px;
+    border-radius: 10%;
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.233);
+  }
+  
